@@ -39,10 +39,6 @@ npm install
 npm run dev
 ```
 
-## Screenshot
-
-Add a screenshot of your project here.
-
 ## Learning Goals
 
 * Working with React Hooks
