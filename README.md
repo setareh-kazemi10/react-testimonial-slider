@@ -33,7 +33,7 @@ The component stores testimonial data in an array and automatically changes the 
 ## Installation
 
 ```bash
-git clone https://github.com/setareh-kazemi10/react-testimonial-slider
+git clone https://github.com/setareh-kazemi10/react-testimonial-slider.git
 cd react-testimonial-slider
 npm install
 npm run dev
